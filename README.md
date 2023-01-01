@@ -1,7 +1,11 @@
-# Dehazing
-The framework used in this code is OpenCV and the codes is based on dehazing of underwater and foggy images and videos using image 
-processing.
+
+second final computer vision project fall 2022 srbiau Dr Koochari 
+
+Subject:# Dehazing   based on dehazing of underwater and foggy images and videos using image processing.
+
+GitHub Inspired : https://github.com/youngguncho/awesome-dehazing
+
 The hazy folder consists of the hazy images in png and jpg formats.
-The dehaze.py fil consits if the python code. 
-It consists for three main functions , for image/video manipulation, masking and thresholds. 
+All of outputs in folders demo and demo dehazed video .
+
 
