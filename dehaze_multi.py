@@ -68,7 +68,7 @@ def simplest_cb(img, percent):
     return cv2.merge(out_channels)
 
 #img = cv2.imread(sys.argv[1])
-directory = "/media/dheeraj/9A26F0CB26F0AA01/WORK/github_repo/Dehazing/hazy"
+directory = "D:/computer_vision/Image-and-Video-Dehazing/hazy/"
 files = os.listdir(directory)
 filepaths = [os.path.join(directory,i) for i in files]
 print(filepaths)

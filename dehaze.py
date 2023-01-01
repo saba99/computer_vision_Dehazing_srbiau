@@ -64,7 +64,7 @@ def simplest_cb(img, percent):
 
 if __name__ == '__main__':
     #img = cv2.imread(sys.argv[1])
-    img = cv2.imread('2a.jpg')
+    img = cv2.imread('D:/computer_vision/Image-and-Video-Dehazing/hazy/2a.jpg')
     out = simplest_cb(img, 1)
     cv2.imshow("Before", img)
     cv2.imshow("After", out)
