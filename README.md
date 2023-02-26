@@ -9,9 +9,9 @@ The hazy folder consists of the hazy images in png and jpg formats.
 All of outputs in folders demo and demo dehazed video .
 
 #Sample Outputs
-<p >  
-<img  src="hazy/2a.jpg"> hazy
-<img  src="hazy/Dehazed/2a_dehazed.jpg"> dehazed 
-</p>
+
+<img  src="hazy/2a.jpg" width="250" height="320"> hazy
+<img  src="hazy/Dehazed/2a_dehazed.jpg" width="250" height="320"> dehazed 
+
 
 
