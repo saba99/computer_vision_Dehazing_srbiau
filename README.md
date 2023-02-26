@@ -8,10 +8,22 @@ GitHub Inspired : https://github.com/youngguncho/awesome-dehazing
 The hazy folder consists of the hazy images in png and jpg formats.
 All of outputs in folders demo and demo dehazed video .
 
-##Sample Outputs
+## Sample Images Outputs(Left:Hazy Right:Dehazd[Desired Output]) 
 
+<div align=center>
 <img  src="hazy/2a.jpg" width="400" height="320">
 <img  src="hazy/Dehazed/2a_dehazed.jpg" width="400" height="320"> 
+</div>  
+ 
+<div align=center>
+<img  src="hazy/tort.jpg" width="400" height="320">
+<img  src="hazy/Dehazed/tort_dehazed.jpg" width="400" height="320"> 
+</div>  
+ 
+<div align=center>
+<img  src="hazy/wood.jpg" width="400" height="320">
+<img  src="hazy/Dehazed/wood_dehazed.jpg" width="400" height="320"> 
+</div>   
 
 
 
