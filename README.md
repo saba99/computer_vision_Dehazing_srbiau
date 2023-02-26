@@ -10,8 +10,8 @@ All of outputs in folders demo and demo dehazed video .
 
 #Sample Outputs
 
-<img  src="hazy/2a.jpg" width="500" height="320"> hazy
-<img  src="hazy/Dehazed/2a_dehazed.jpg" width="500" height="320"> dehazed 
+<img  src="hazy/2a.jpg" width="400" height="320"> hazy
+<img  src="hazy/Dehazed/2a_dehazed.jpg" width="400" height="320"> dehazed 
 
 
 
